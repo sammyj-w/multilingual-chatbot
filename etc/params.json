@@ -1,5 +1,12 @@
 {
-  "translator_apikey": "",
+  "translator_apikey": "", {
+  "apikey": "I5Ea5gWi3V5huRLI1WxAUIP3_S966dnD9o404vQ28kYi",
+  "iam_apikey_description": "Auto-generated for key 5c8abfc7-91cc-4454-9ce5-809946f7a19e",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/a176ace52d2e4eeea8c31927bc85910a::serviceid:ServiceId-d03cd823-f938-4711-b492-a097ce3906ce",
+  "url": "https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/e049aac8-23b0-4ead-89c9-b5dbc6c44b6d"
+}
   "assistant_apikey": "",
   "assistant_workspace_id": ""
 }
